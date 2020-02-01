@@ -1,8 +1,7 @@
-function return_object() {
-    let args = [...arguments];
+function return_object(fn, ...args) {
     return function() {
-        let arr = args[0]();
-        let names = args.slice(1);
+        let arr = fn();
+        let names = args;
         if (Array.isArray(arr)) {
             let result = {};
             arr.forEach((elem, index) => {
@@ -14,7 +13,6 @@ function return_object() {
         } else
             return arr;
     };
-
 }
 
 
