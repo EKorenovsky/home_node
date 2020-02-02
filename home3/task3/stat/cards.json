@@ -1,0 +1,126 @@
+[{
+        "name": "Товар 1",
+        "src": "https://source.unsplash.com/random/341x196",
+        "description": "Небольшое описание для демонстрационного товара №1"
+    },
+    {
+        "name": "Товар 2",
+        "src": "https://source.unsplash.com/random/342x196",
+        "description": "Небольшое описание для демонстрационного товара №2"
+    },
+    {
+        "name": "Товар 3",
+        "src": "https://source.unsplash.com/random/343x196",
+        "description": "Небольшое описание для демонстрационного товара №3"
+    },
+    {
+        "name": "Товар 4",
+        "src": "https://source.unsplash.com/random/344x196",
+        "description": "Небольшое описание для демонстрационного товара №4"
+    },
+    {
+        "name": "Товар 5",
+        "src": "https://source.unsplash.com/random/345x196",
+        "description": "Небольшое описание для демонстрационного товара №5"
+    },
+    {
+        "name": "Товар 6",
+        "src": "https://source.unsplash.com/random/346x196",
+        "description": "Небольшое описание для демонстрационного товара №6"
+    },
+    {
+        "name": "Товар 7",
+        "src": "https://source.unsplash.com/random/347x196",
+        "description": "Небольшое описание для демонстрационного товара №7"
+    },
+    {
+        "name": "Товар 8",
+        "src": "https://source.unsplash.com/random/348x196",
+        "description": "Небольшое описание для демонстрационного товара №8"
+    },
+    {
+        "name": "Товар 9",
+        "src": "https://source.unsplash.com/random/349x196",
+        "description": "Небольшое описание для демонстрационного товара №9"
+    },
+    {
+        "name": "Товар 10",
+        "src": "https://source.unsplash.com/random/3410x196",
+        "description": "Небольшое описание для демонстрационного товара №10"
+    },
+    {
+        "name": "Товар 11",
+        "src": "https://source.unsplash.com/random/3411x196",
+        "description": "Небольшое описание для демонстрационного товара №11"
+    },
+    {
+        "name": "Товар 12",
+        "src": "https://source.unsplash.com/random/3412x196",
+        "description": "Небольшое описание для демонстрационного товара №12"
+    },
+    {
+        "name": "Товар 13",
+        "src": "https://source.unsplash.com/random/3413x196",
+        "description": "Небольшое описание для демонстрационного товара №13"
+    },
+    {
+        "name": "Товар 14",
+        "src": "https://source.unsplash.com/random/3414x196",
+        "description": "Небольшое описание для демонстрационного товара №14"
+    },
+    {
+        "name": "Товар 15",
+        "src": "https://source.unsplash.com/random/3415x196",
+        "description": "Небольшое описание для демонстрационного товара №15"
+    },
+    {
+        "name": "Товар 16",
+        "src": "https://source.unsplash.com/random/3416x196",
+        "description": "Небольшое описание для демонстрационного товара №16"
+    },
+    {
+        "name": "Товар 17",
+        "src": "https://source.unsplash.com/random/3417x196",
+        "description": "Небольшое описание для демонстрационного товара №17"
+    },
+    {
+        "name": "Товар 18",
+        "src": "https://source.unsplash.com/random/3418x196",
+        "description": "Небольшое описание для демонстрационного товара №18"
+    },
+    {
+        "name": "Товар 19",
+        "src": "https://source.unsplash.com/random/3419x196",
+        "description": "Небольшое описание для демонстрационного товара №19"
+    },
+    {
+        "name": "Товар 20",
+        "src": "https://source.unsplash.com/random/3420x196",
+        "description": "Небольшое описание для демонстрационного товара №20"
+    },
+    {
+        "name": "Товар 21",
+        "src": "https://source.unsplash.com/random/3421x196",
+        "description": "Небольшое описание для демонстрационного товара №21"
+    },
+    {
+        "name": "Товар 22",
+        "src": "https://source.unsplash.com/random/3422x196",
+        "description": "Небольшое описание для демонстрационного товара №22"
+    },
+    {
+        "name": "Товар 23",
+        "src": "https://source.unsplash.com/random/3423x196",
+        "description": "Небольшое описание для демонстрационного товара №23"
+    },
+    {
+        "name": "Товар 24",
+        "src": "https://source.unsplash.com/random/3424x196",
+        "description": "Небольшое описание для демонстрационного товара №24"
+    },
+    {
+        "name": "Товар 25",
+        "src": "https://source.unsplash.com/random/3425x196",
+        "description": "Небольшое описание для демонстрационного товара №25"
+    }
+]
