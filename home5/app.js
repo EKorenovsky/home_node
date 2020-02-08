@@ -1,7 +1,6 @@
 const express = require('express');
 const app = express();
 const logger = require('morgan');
-
 const apiV1 = require('./routes/apiV1');
 
 let options = {
