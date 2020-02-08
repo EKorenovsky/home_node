@@ -13,6 +13,4 @@ app.use(express.json());
 app.use(express.static('public', options));
 app.use(logger(':method :url :status :res[content-length] - :response-time ms'));
 app.use('', apiV1);
-
-
 app.listen(8080);
