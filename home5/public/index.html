@@ -78,6 +78,7 @@
 
             methods: {
                 send() {
+                    let that = this;
                     axios.post('/apiV1', {
                             method: 'send_lead',
                             params: {
@@ -88,11 +89,11 @@
                             key: app.key,
                         }).then(function(response) {
                             console.log(response);
-                            app.serverResponse = response.data;
+                            that.serverResponse = response.data;
                         })
                         .catch(function() {
                             console.log('FAILURE!!');
-                            app.serverResponse = response.data
+                            that.serverResponse = response.data
                         });
 
                 },
@@ -100,12 +101,13 @@
                     this.$refs.form.reset();
                 },
                 getKey() {
+                    let that = this;
                     axios.post('/apiV1', {
                             method: 'get_key',
                         }).then(function(response) {
                             console.log(response);
-                            app.key = response.data.key;
-                            app.serverResponse = response.data;
+                            that.key = response.data.key;
+                            that.serverResponse = response.data;
                         })
                         .catch(function() {
                             console.log('FAILURE!!');
